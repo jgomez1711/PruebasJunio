@@ -96,4 +96,9 @@ public class BotonesPaginas {
 		System.out.println(buscar);
 		buscar.click();
 	}
+	public void btnUpload() {
+		btnUpload.
+		
+		
+	}
 }
